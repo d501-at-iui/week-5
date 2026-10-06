@@ -27,3 +27,4 @@ cython_debug/
 
 # project
 .env
+thinking-process.txt
